@@ -1,2 +1,1 @@
-# music-theory-interval-trainer
-Simple music theory interval trainer
+#### moved, see [https://github.com/wittydeveloper/Lucien](https://github.com/wittydeveloper/Lucien)
